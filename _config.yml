@@ -17,7 +17,7 @@ latex:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/Coolejubo/infomat123  # Online location of your book (change this to your GitHub repository link)
-  path_to_book: docs  # Optional path to your book, relative to the repository root
+  path_to_book: docs/home.ipynb  # Optional path to your book, relative to the repository root
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository

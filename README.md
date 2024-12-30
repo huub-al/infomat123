@@ -1,2 +1,2 @@
 Informatie Vis over Drugs.
-Check de website: https://coolejubo.github.io/infomat123
+Check de website: https://huub-al.github.io/infomat123
